@@ -1,0 +1,25 @@
+{
+  "name": "client",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fsxchen/MyBlog",
+  "authors": [
+    "fsxchen <fsxchen@gmail.com>"
+  ],
+  "description": "blog",
+  "keywords": [
+    "blog",
+    "kexke"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.5",
+    "bootstrap": "~3.3.5"
+  }
+}
