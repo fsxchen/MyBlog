@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "server/docs"
-	_ "server/routers"
+	_ "GoWeb/server/docs"
+	_ "GoWeb/server/routers"
 
 	"github.com/astaxie/beego"
 )

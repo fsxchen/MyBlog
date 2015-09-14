@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"server/models"
+	"GoWeb/server/models"
 	"encoding/json"
 
 	"github.com/astaxie/beego"

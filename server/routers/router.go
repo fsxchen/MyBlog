@@ -8,7 +8,7 @@
 package routers
 
 import (
-	"server/controllers"
+	"GoWeb/server/controllers"
 
 	"github.com/astaxie/beego"
 )
